@@ -12,7 +12,6 @@ Un **jeu d'horreur multijoueur** avec des mécaniques dynamiques et une IA impr�
 🤝 J’ai besoin d’aide pour  
 - **Renforcer mes compétences en backend**, en particulier avec **Node.js, Laravel et Django**.  
 - **Optimiser les performances** des jeux multijoueurs en ligne (serveurs dédiés, synchronisation des joueurs, latence réduite).  
-- **Découvrir de nouvelles technos** pour l’**architecture scalable** et l'intégration d'éléments **blockchain/NFT** dans le gaming.  
 <br><br>
 
 🌱 J’apprends actuellement  
