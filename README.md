@@ -1,5 +1,36 @@
 # 💫 About Me:
-🔭 Je travaille actuellement sur  <br>Un **jeu d'horreur multijoueur** avec des mécaniques dynamiques et une IA imprévisible 👻🎮  <br><br>✨ Je cherche à collaborer sur  <br>Des **projets web full-stack** et des **jeux en ligne immersifs**  <br><br>🤝 J’ai besoin d’aide pour  <br>Améliorer mes compétences en **développement backend**, notamment avec **Node.js, Laravel ou Django**  <br><br>🌱 J’apprends actuellement  <br>Le **développement full-stack**, avec une spécialisation en **React, Next.js et les API REST**  <br><br>💬 Demande-moi  <br>Tout sur le **développement web**, la **création de jeux multijoueurs** et l’**intégration d’IA dans les jeux**  <br><br>⚡ Fun fact  <br>J’adore mélanger **le web et le gaming** pour créer des expériences interactives uniques ! 🚀  <br>
+🔭 Je travaille actuellement sur  
+Un **jeu d'horreur multijoueur** avec des mécaniques dynamiques et une IA imprévisible. Mon objectif est de créer une **expérience immersive** où chaque partie est unique grâce à des événements aléatoires et un système d’IA évolutif. 👻🎮  
+<br><br>
+
+✨ Je cherche à collaborer sur  
+- **Des projets web full-stack** pour perfectionner mes compétences en frontend et backend.  
+- **Des jeux en ligne immersifs**, notamment ceux intégrant des éléments d'IA ou des mécaniques innovantes.  
+- **Des systèmes de matchmaking et de gestion de serveurs de jeux** pour améliorer l'expérience multijoueur.  
+<br><br>
+
+🤝 J’ai besoin d’aide pour  
+- **Renforcer mes compétences en backend**, en particulier avec **Node.js, Laravel et Django**.  
+- **Optimiser les performances** des jeux multijoueurs en ligne (serveurs dédiés, synchronisation des joueurs, latence réduite).  
+- **Découvrir de nouvelles technos** pour l’**architecture scalable** et l'intégration d'éléments **blockchain/NFT** dans le gaming.  
+<br><br>
+
+🌱 J’apprends actuellement  
+- Le **développement full-stack**, avec une spécialisation en **React, Next.js et les API REST**.  
+- **L’optimisation des bases de données** pour gérer des données volumineuses et en temps réel.  
+- **L’IA appliquée au gaming**, pour créer des comportements dynamiques et imprévisibles dans mes jeux.  
+- **L'hébergement et le déploiement avancé** (Docker, CI/CD, AWS, Vercel).  
+<br><br>
+
+💬 Demande-moi  
+- Comment **créer un jeu multijoueur** de A à Z (serveurs, matchmaking, gameplay dynamique).  
+- Comment **développer une application web moderne**, scalable et performante.  
+- Comment **optimiser l’expérience utilisateur** grâce aux animations et à un design interactif.  
+<br><br>
+
+⚡ Fun fact  
+Je ne vois pas le **développement** comme un simple travail, mais comme un **moyen d'innover et de raconter des histoires**. Mon rêve ? Créer des **expériences interactives** où l’**IA et le web se rejoignent** pour donner vie à des mondes dynamiques et imprévisibles ! 🚀💡  
+<br>
 
 
 # 💻 Tech Stack:
